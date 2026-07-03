@@ -1,0 +1,7 @@
+/*
+ * Copyright (c) 2026 Girish Elankonda. All rights reserved.
+ * Licensed under the MIT License.
+ */
+export const OPEN_NAV_MENU = 'OPEN_NAV_MENU';
+export const CLOSE_NAV_MENU = 'CLOSE_NAV_MENU';
+export const COLLAPSE_NAV_MENU = 'COLLAPSE_NAV_MENU';
